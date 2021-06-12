@@ -1,2 +1,5 @@
 payload:
   - '+.gitmemory.com'
+  - '+.fvs.io'
+  - '+.hanime1.me'
+  
