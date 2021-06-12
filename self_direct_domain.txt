@@ -1,3 +1,6 @@
   payload:
     - '+.clash.razord.top'
     - '+.yacd.haishan.me'
+    - '+.clash.razord.top'
+    - '+.yacd.haishan.me'
+    - '+.shadowthein.net'
