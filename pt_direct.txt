@@ -110,6 +110,5 @@ payload:
   - '+.torrentseeds.org'
   - '+.totheglory.im'
   - '+.trontv.com'
-  - '+.u2.dmhy.org'
   - '+.uhdbits.org'
   - '+.xauat6.edu.cn'
