@@ -112,3 +112,4 @@ payload:
   - '+.trontv.com'
   - '+.uhdbits.org'
   - '+.xauat6.edu.cn'
+  - '+.shadowthein.net'
