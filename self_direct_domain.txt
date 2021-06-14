@@ -4,4 +4,3 @@
     - '+.clash.razord.top'
     - '+.yacd.haishan.me'
     - '+.shadowthein.net'
-    - '+.githubmemory.com'
