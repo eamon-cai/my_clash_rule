@@ -4,3 +4,4 @@ payload:
   - '+.hanime1.me'
   - '+.idc.best'
   - '+.wallpapers-anime.com'
+  - '+.githubmemory.com'
