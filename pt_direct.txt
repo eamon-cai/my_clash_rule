@@ -74,7 +74,6 @@ payload:
   - '+.keepfrds.com'
   - '+.leaguehd.com'
   - '+.lztr.me'
-  - '+.m-team.cc'
   - '+.madsrevolution.net'
   - '+.moecat.best'
   - '+.morethan.tv'
