@@ -5,3 +5,6 @@ payload:
   - '+.idc.best'
   - '+.wallpapers-anime.com'
   - '+.githubmemory.com'
+  - '+.downloadtwittervideo.com'
+  - '+.anime-pictures.net'
+  - '+.wallpapers-anime.com'
