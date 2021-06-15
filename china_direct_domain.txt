@@ -363,7 +363,6 @@ payload:
   - '+.jpopsuki.eu'
   - '+.keepfrds.com'
   - '+.leaguehd.com'
-  - '+.m-team.cc'
   - '+.madsrevolution.net'
   - '+.msg.vg'
   - '+.nanyangpt.com'
