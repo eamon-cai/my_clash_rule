@@ -17,3 +17,6 @@ payload:
   - '+.sijishe.org'
   - '+.vmware.com'
   - '+.sb-cd.com'
+  - '+.xmanhua.com'
+  - '+.iplocation.net'
+  - '+.avgigi.com'
