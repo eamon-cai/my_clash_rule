@@ -33,6 +33,7 @@ payload:
   - '+.multi.xxx'
   - '+.manycheats.com'
   - '+.camhub.world'
+  - '+.bimiacg.net'
   - '+.tld-list.com'
   - '+.gandi.net'
   - '+.ldqk.xyz'
