@@ -46,5 +46,8 @@ payload:
   - PROCESS-NAME,transmission-qt.exe
   - PROCESS-NAME,uTorrent.exe
   - PROCESS-NAME,WebTorrent.exe
-  - PROCESS-NAME,csgo.exe
-
+  - PROCESS-NAME,csgo.exe 
+  - PROCESS-NAME,steam.exe,DIRECT
+  - PROCESS-NAME,csgo.exe,DIRECT
+  - PROCESS-NAME,小米云服务,DIRECT
+  - PROCESS-NAME,micloud.exe,DIRECT
