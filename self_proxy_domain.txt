@@ -252,4 +252,11 @@ payload:
   - '+.zyxiao.com'
   - '+.zztt35.com'
   - '+.zztt86.com'
+  - '+.bing.com'
+  - '+.torproject.net'
+  - '+.xslist.org'
+  - '+.bulianglin.com'
+  - '+.onamae.com'
+  - '+.hicairo.com'
+  
 
