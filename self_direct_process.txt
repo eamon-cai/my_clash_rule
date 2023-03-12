@@ -1,5 +1,5 @@
 payload:
-  - PROCESS-NAME,Battle.net.exe,DIRECT
+  - PROCESS-NAME,Battle.net.exe
   - PROCESS-NAME,BitComet.exe
   - PROCESS-NAME,DownloadService
   - PROCESS-NAME,Folx
@@ -23,17 +23,17 @@ payload:
   - PROCESS-NAME,aria2c
   - PROCESS-NAME,aria2c.exe
   - PROCESS-NAME,cloudmusic.exe
-  - PROCESS-NAME,csc_ui.exe,DIRECT
+  - PROCESS-NAME,csc_ui.exe
   - PROCESS-NAME,csgo.exe 
-  - PROCESS-NAME,csgo.exe,DIRECT
+  - PROCESS-NAME,csgo.exe
   - PROCESS-NAME,fdm
   - PROCESS-NAME,fdm.exe
   - PROCESS-NAME,leaf
   - PROCESS-NAME,leaf.exe
-  - PROCESS-NAME,micloud.exe,DIRECT
+  - PROCESS-NAME,micloud.exe
   - PROCESS-NAME,naive
   - PROCESS-NAME,naive.exe
-  - PROCESS-NAME,overwatch.exe,DIRECT
+  - PROCESS-NAME,overwatch.exe
   - PROCESS-NAME,privoxy
   - PROCESS-NAME,privoxy.exe
   - PROCESS-NAME,qBittorrent
@@ -53,4 +53,7 @@ payload:
   - PROCESS-NAME,v2ray.exe
   - PROCESS-NAME,xray
   - PROCESS-NAME,xray.exe
-  - PROCESS-NAME,小米云服务,DIRECT
+  - PROCESS-NAME,小米云服务
+  - PROCESS-NAME,xray.exe
+  - PROCESS-NAME,v2rayN.exe
+  - PROCESS-NAME,PikPak.exe
