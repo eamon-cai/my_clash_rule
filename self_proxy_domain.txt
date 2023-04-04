@@ -258,5 +258,7 @@ payload:
   - '+.bulianglin.com'
   - '+.onamae.com'
   - '+.hicairo.com'
-  
+  - '+.bing.net'
+  - '+.bingapis.com'
+  - '+.bing.com'
 
