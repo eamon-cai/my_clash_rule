@@ -15,3 +15,4 @@ payload:
   - '+.ys7.com'
   - '+.yuanshen.com'
   - '+.mypikpak.com'
+  - '+.localhost.ptlogin2.qq.com'
